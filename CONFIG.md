@@ -16,7 +16,6 @@ kogasafead
 > This is the description of the feed.
 
 東方Projectの小傘ちゃんに関わってそ～な画像を集めてくれるフィードです
-※心臓が弱い方、びっくり系が苦手な方の閲覧は自己責任でお願いします。
 
 # searchTerms
 
